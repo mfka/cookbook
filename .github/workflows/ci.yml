@@ -49,3 +49,8 @@ jobs:
 
       # - name: Run tests 🧪
       #   run: yarn test
+
+      - name: Run deploy github pages
+        run: |
+          git config user.name "mfka" && git config user.email "marekfirlejczyk@gmail.com"
+          yarn run gh-pages-deploy
