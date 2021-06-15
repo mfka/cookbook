@@ -19,7 +19,7 @@
     "@nuxtjs/composition-api": "^0.17.0",
     "@nuxtjs/pwa": "^3.0.2",
     "core-js": "^3.6.5",
-    "nuxt": "^2.14.11"
+    "nuxt": "^2.15.7"
   },
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
